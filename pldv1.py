@@ -231,7 +231,7 @@ topicos = {
 
 # -------- Interface --------
 st.set_page_config(page_title="Mock Aulas Dadas", layout="wide")
-st.title("📚 Registro de Aulas Dadas com Login Falso")
+st.title("📚 Registro de Aulas Dadas")
 
 # Login mock
 if "logado" not in st.session_state:
